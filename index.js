@@ -1,0 +1,1 @@
+console.log("we are creating the index file")
